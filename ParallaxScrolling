@@ -1,0 +1,12 @@
+<div class="MainContainer">
+
+  <div class="ParallaxContainer">
+    // Headlines for the page
+  </div>
+
+  <div class="ContentContainer">
+    <div class="Content">
+      // Put the rest of my page content here
+    </div>
+  </div>
+</div>
